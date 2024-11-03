@@ -6,7 +6,7 @@ __Python__ was used to clean the data and to query smaller datasets.
 The datasets were then imported into __Tableau__ to make the Dashboard.
 
 # Data
-The data came from [Our World in Data](https://github.com/owid/covid-19-data/tree/master/public/data) and it was a fairly clean dataset. It needed only a little bit of cleaning, exploration and preparation. 
+The data came from [Our World in Data](https://github.com/owid/covid-19-data/tree/master/public/data). The dataset needed only a little bit of cleaning, exploration and preparation. 
 
 # Dashboard
 You can find the Tableau Dashboard [here](https://public.tableau.com/app/profile/mario.boha./vizzes).
